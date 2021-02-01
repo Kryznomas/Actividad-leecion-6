@@ -1,0 +1,21 @@
+#calculadora {
+    width: 500px;
+    height:850px;
+    background-color: rgb(201, 197, 197);
+}
+
+.input{
+    text-align: right;
+    font-size: 25px;
+    padding-right: 10px;
+    height: 50px;
+    border: none;
+}
+
+button {
+    height: 50px;
+    width: 50px;
+    line-height: 50%;
+}
+
+
